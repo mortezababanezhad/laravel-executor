@@ -1,5 +1,5 @@
 {
-  "name": "ashallendesign/laravel-executor",
+  "name": "dadehpardaz/laravel-executor",
   "description": "Configurable code that can be ran when installing or updating your web app.",
   "type": "library",
   "homepage": "https://github.com/ash-jc-allen/laravel-executor",
@@ -19,7 +19,7 @@
     "php": "^7.2|^8.0",
     "nesbot/carbon": "~2.0",
     "guzzlehttp/guzzle": "^6.3|^7.0",
-    "illuminate/container": "^6.0|^7.0|^8.0",
+    "illuminate/container": "^6.0|^7.0|^8.0|^9.0",
     "jolicode/jolinotif": "^2.1",
     "ext-json": "*"
   },
